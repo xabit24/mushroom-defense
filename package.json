@@ -1,0 +1,22 @@
+{
+  "name": "mushroom-defense-js",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "three": "^0.160.0",
+    "@react-three/fiber": "^8.15.14",
+    "@react-three/drei": "^9.101.3"
+  },
+  "packageManager": "pnpm@9.0.0",
+  "engines": {
+    "node": ">=18.18 <21"
+  }
+}
