@@ -1,4 +1,4 @@
 {
-  "installCommand": "pnpm install",
-  "buildCommand": "pnpm build"
+  "installCommand": "npm ci || npm install",
+  "buildCommand": "npm run build"
 }
